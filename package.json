@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [],
-  "author": "Prakash Anand",
+  "author": "Vivekanand",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
